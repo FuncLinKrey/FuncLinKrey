@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FuncLinKrey </> LinKrey
 - 👀 I’m interested in Apple Swift and ALL OF Coding
 - 🌱 I’m currently learning Swift and JS
-- 💞️ Lightning Lion
+- 💞️ Play games such as bs.You can come and play with me.I love Fang in BS.
 - 📫 3364006414@qq.com OR funclinkrey070817@outlook.com
 - 
 <!---
