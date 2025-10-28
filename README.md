@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FuncLinKrey </> LinKrey
+- 👋 Hi, I’m @FuncLinKrey </> Shay
 - 👀 I’m interested in Apple Swift and ALL OF Coding
 - 🌱 I’m currently learning Swift and JS
 - 💞️ Play games such as bs.You can come and play with me.I love Fang in BS.
