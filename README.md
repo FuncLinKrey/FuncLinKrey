@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FuncLinKrey </> Lin Shay
+- 👋 Hi, I’m @LShayc1own </> Lin Shay call me LinShay/琳曦 lang:EN/ZH
 - 👀 I’m interested in Apple Swift and ALL OF Coding
 - 🌱 I’m currently learning Swift, C# and so on...
 - 💞️ Technology Fan also Apple Fan.
