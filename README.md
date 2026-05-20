@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FuncLinKrey </> Shay
+- 👋 Hi, I’m @FuncLinKrey </> Lin Shay
 - 👀 I’m interested in Apple Swift and ALL OF Coding
-- 🌱 I’m currently learning Swift and C#
-- 💞️ Play games such as bs.You can come and play with me.
-- 📫 3364006414@qq.com OR funclinkrey070817@outlook.com
+- 🌱 I’m currently learning Swift, C# and so on...
+- 💞️ Technology Fan also Apple Fan.
+- 📫 LShayc1own@icloud.com OR func.linkrey070817@outlook.com/@gmail.com
 - 
 <!---
 FuncLinKrey/FuncLinKrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
